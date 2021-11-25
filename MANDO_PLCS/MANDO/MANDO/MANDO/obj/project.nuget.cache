@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7CLTr3B+unQfTU+rtV/rw3A0rsIAm4TevjQF/1mOMF/SIJvf2epD6ydl+HCLHxSIHOgqCH0JdPCDuizqSYT6w==",
+  "success": true,
+  "projectFilePath": "C:\\APK\\MANDO_PLCS\\MANDO\\MANDO\\MANDO\\MANDO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\xam.plugins.notifier\\3.0.1\\xam.plugins.notifier.3.0.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRKbfhDux5hDWtuyQWLi3xRBI/w93rIIDNUBaF9t0qLmtS9MuJrk0zRU1Ns+ZwJtfJQpfeF+ITVpFMWVyXRscg==",
+  "success": true,
+  "projectFilePath": "C:\\APK\\MANDO_PLCS\\MANDO\\MANDO\\MANDO.iOS\\MANDO.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ESTIVEN\\.nuget\\packages\\xam.plugins.notifier\\3.0.1\\xam.plugins.notifier.3.0.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

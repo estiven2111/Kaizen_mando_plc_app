@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MANDO.Views.Kaizen">
+    <ContentPage.Content >
+
+
+
+        <StackLayout BackgroundColor="#9D9A9A">
+
+            <StackLayout>
+                
+            </StackLayout>
+            <Image  Source="pool.jpeg"  Margin="10"/>
+            <StackLayout>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <ScrollView Grid.Row="1">
+
+                        <StackLayout>
+
+
+                            <StackLayout  Margin="10">
+
+                                <StackLayout BackgroundColor="#FFFFFF " AnchorX="300" AnchorY="500" Margin="0,0,0,50" >
+
+                                   <Label AnchorX="300" AnchorY="500" x:Name="mensaje" Text="por favor active el sistema de visualizacion de errores  generados por POOL AUTOMATION"
+                                      VerticalOptions="CenterAndExpand" 
+                                     HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"
+                                    Padding="20"/>
+
+                                    <Label AnchorX="300" AnchorY="500" x:Name="MenError" Text=""
+                                      VerticalOptions="CenterAndExpand" 
+                                     HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"
+                                    Padding="20"/>
+
+                                    <Label AnchorX="300" AnchorY="500" x:Name="Menadver" Text=""
+                                      VerticalOptions="CenterAndExpand" 
+                                     HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"
+                                    Padding="20"/>
+
+                                </StackLayout>
+
+                                <Button  Clicked="PULSO_1_Clicked" Text="Visualizar errores" />
+                            </StackLayout>
+
+                            <StackLayout Margin="40">
+                                <Button   Clicked="navegar_Clicked" Text="IR A PAGINA DE ERRORES"></Button>
+                            </StackLayout>
+
+
+                        </StackLayout>
+
+                    </ScrollView>
+                </Grid>
+
+            </StackLayout>
+
+
+
+        </StackLayout>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </ContentPage.Content>
+</ContentPage>

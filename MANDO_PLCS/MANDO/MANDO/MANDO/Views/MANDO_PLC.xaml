@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MANDO.Views.MANDO_PLC">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label></Label>
+            <Label Text="APLICACION MANDOS INALAMBRICOS"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <StackLayout>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <ScrollView Grid.Row="1">
+
+                        <StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="SUBIR_ON" x:Name="SUBIR_ON"  Clicked="PULSO_1_Clicked" />
+                            </StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="BAJAR_ON" x:Name="BAJAR_ON"  Clicked="PULSO_2_Clicked"  />
+                            </StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="ADELANTE_ON" x:Name="ADELANTE_ON"  Clicked="PULSO_3_Clicked"  />
+                            </StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="ATRAS_ON" x:Name="ATRAS_ON" Clicked="PULSO_4_Clicked"  />
+                            </StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="ABRIR_ON" x:Name="ABRIR_ON" Clicked="PULSO_5_Clicked"  />
+                            </StackLayout>
+
+                            <StackLayout AnchorX="20" AnchorY="80" Padding="0" Margin="0,10,0,20">
+                                <Button Text="CERRAR_ON" x:Name="CERRAR_ON" Clicked="PULSO_6_Clicked"  />
+                            </StackLayout>
+
+                           
+
+                        </StackLayout>
+                        
+                    </ScrollView>
+                </Grid>
+
+            </StackLayout>
+        </StackLayout>
+      
+        
+        
+      </ContentPage.Content>
+
+   
+
+
+
+</ContentPage>
