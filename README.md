@@ -40,7 +40,8 @@ Además, **registra los errores más frecuentes en una base de datos local**, lo
 ---
 ## 🖼️ Capturas de Pantalla
 
+![image](https://github.com/user-attachments/assets/4f576496-fa1b-431d-b4ff-2f017212fce6)
+![image](https://github.com/user-attachments/assets/1c3b7c65-48fc-4573-9fde-4f1e9dffa7a7)
 
-![image](https://github.com/user-attachments/assets/0025a3a3-637a-4396-966b-a414191c3fa2)
-![image](https://github.com/user-attachments/assets/2e42a176-b4e7-489c-b888-add32d0a0d30)
+
 
